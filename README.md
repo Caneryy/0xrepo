@@ -8,3 +8,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for tests (2023-12-15 13:10)
 
+- Update documentation for frontend (2023-12-15 15:02)
+
