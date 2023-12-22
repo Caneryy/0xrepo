@@ -40,3 +40,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize tests performance (2023-12-22 15:01)
 
+- Improve error handling in config (2023-12-22 15:43)
+
