@@ -38,3 +38,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor docs code (2023-12-22 14:12)
 
+- Optimize tests performance (2023-12-22 15:01)
+
