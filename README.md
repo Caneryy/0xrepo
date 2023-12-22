@@ -36,3 +36,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in docs (2023-12-22 13:22)
 
+- Refactor docs code (2023-12-22 14:12)
+
