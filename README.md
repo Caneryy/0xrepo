@@ -46,3 +46,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in core (2023-12-26 11:50)
 
+- Optimize auth performance (2023-12-26 12:34)
+
