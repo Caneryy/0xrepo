@@ -58,3 +58,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for docs (2023-12-27 15:23)
 
+- Fix security issue in frontend (2023-12-28 15:53)
+
