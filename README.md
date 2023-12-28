@@ -66,3 +66,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in utils (2023-12-28 18:24)
 
+- Optimize auth performance (2023-12-28 19:52)
+
