@@ -90,3 +90,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in config (2024-01-03 15:53)
 
+- Update documentation for utils (2024-01-04 16:12)
+
