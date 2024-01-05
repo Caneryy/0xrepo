@@ -94,3 +94,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for docs (2024-01-04 18:02)
 
+- Add tests for utils (2024-01-05 11:23)
+
