@@ -118,3 +118,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for auth (2024-01-15 15:21)
 
+- Add new feature to core (2024-01-15 16:18)
+
