@@ -138,3 +138,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to database (2024-01-18 14:20)
 
+- Fix security issue in docs (2024-01-18 15:26)
+
