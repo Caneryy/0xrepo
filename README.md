@@ -142,3 +142,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in docs (2024-01-19 11:27)
 
+- Update documentation for backend (2024-01-22 17:23)
+
