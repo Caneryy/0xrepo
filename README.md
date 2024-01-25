@@ -156,3 +156,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for auth (2024-01-24 11:37)
 
+- Improve error handling in config (2024-01-25 11:15)
+
