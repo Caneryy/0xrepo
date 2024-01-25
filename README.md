@@ -158,3 +158,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in config (2024-01-25 11:15)
 
+- Fix bug in frontend (2024-01-25 11:30)
+
