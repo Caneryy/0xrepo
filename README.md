@@ -164,3 +164,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for api (2024-01-26 14:31)
 
+- Add tests for utils (2024-01-26 15:54)
+
