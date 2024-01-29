@@ -172,3 +172,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Implement api functionality (2024-01-29 12:01)
 
+- Add new feature to docs (2024-01-29 12:24)
+
