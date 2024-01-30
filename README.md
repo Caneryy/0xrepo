@@ -186,3 +186,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor core code (2024-01-30 16:58)
 
+- Improve error handling in config (2024-01-30 17:47)
+
