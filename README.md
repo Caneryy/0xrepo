@@ -180,3 +180,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to config (2024-01-30 13:58)
 
+- Implement tests functionality (2024-01-30 14:23)
+
