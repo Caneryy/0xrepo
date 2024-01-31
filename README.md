@@ -190,3 +190,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Implement utils functionality (2024-01-31 15:58)
 
+- Update documentation for auth (2024-01-31 16:41)
+
