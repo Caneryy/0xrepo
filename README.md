@@ -192,3 +192,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for auth (2024-01-31 16:41)
 
+- Fix bug in frontend (2024-01-31 18:21)
+
