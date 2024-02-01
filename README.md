@@ -204,3 +204,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for frontend (2024-02-01 11:29)
 
+- Fix bug in core (2024-02-01 12:48)
+
