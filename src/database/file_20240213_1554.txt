@@ -1,0 +1,3 @@
+Update documentation for auth
+
+Date: 2024-02-13 15:54:20

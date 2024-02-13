@@ -246,3 +246,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for api (2024-02-09 14:38)
 
+- Update documentation for auth (2024-02-13 15:54)
+
