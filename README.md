@@ -258,3 +258,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to frontend (2024-02-16 11:54)
 
+- Improve error handling in docs (2024-02-19 14:46)
+
