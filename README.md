@@ -260,3 +260,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in docs (2024-02-19 14:46)
 
+- Fix bug in auth (2024-02-19 15:08)
+
