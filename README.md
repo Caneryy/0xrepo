@@ -266,3 +266,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Implement docs functionality (2024-02-19 17:44)
 
+- Improve error handling in api (2024-02-21 15:14)
+
