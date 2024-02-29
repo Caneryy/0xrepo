@@ -298,3 +298,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for tests (2024-02-29 10:47)
 
+- Improve error handling in docs (2024-02-29 11:13)
+
