@@ -314,3 +314,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize docs performance (2024-03-01 19:31)
 
+- Update documentation for backend (2024-03-01 21:26)
+
