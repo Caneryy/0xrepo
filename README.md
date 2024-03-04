@@ -320,3 +320,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for frontend (2024-03-04 15:10)
 
+- Fix bug in docs (2024-03-04 16:10)
+
