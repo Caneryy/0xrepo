@@ -336,3 +336,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in utils (2024-03-07 18:32)
 
+- Update documentation for backend (2024-03-07 20:16)
+
