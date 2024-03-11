@@ -346,3 +346,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Implement frontend functionality (2024-03-11 12:04)
 
+- Fix security issue in api (2024-03-11 13:22)
+
