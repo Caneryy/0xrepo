@@ -348,3 +348,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in api (2024-03-11 13:22)
 
+- Improve error handling in docs (2024-03-12 14:59)
+
