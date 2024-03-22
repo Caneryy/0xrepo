@@ -370,3 +370,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to frontend (2024-03-22 14:53)
 
+- Update dependencies for core (2024-03-22 16:47)
+
