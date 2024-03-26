@@ -378,3 +378,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in config (2024-03-26 15:31)
 
+- Optimize tests performance (2024-03-26 15:55)
+
