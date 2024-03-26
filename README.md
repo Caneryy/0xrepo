@@ -380,3 +380,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize tests performance (2024-03-26 15:55)
 
+- Add tests for docs (2024-03-26 16:15)
+
