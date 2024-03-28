@@ -386,3 +386,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for core (2024-03-28 11:58)
 
+- Improve error handling in api (2024-03-28 12:55)
+
