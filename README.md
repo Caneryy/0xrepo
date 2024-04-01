@@ -394,3 +394,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for api (2024-03-29 11:59)
 
+- Improve error handling in docs (2024-04-01 10:20)
+
