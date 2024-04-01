@@ -396,3 +396,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in docs (2024-04-01 10:20)
 
+- Add tests for frontend (2024-04-01 12:17)
+
