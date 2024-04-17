@@ -452,3 +452,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for auth (2024-04-12 16:19)
 
+- Refactor tests code (2024-04-17 12:37)
+
