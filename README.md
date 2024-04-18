@@ -454,3 +454,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor tests code (2024-04-17 12:37)
 
+- Improve error handling in backend (2024-04-18 17:14)
+
