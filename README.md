@@ -458,3 +458,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for tests (2024-04-18 18:26)
 
+- Improve error handling in core (2024-04-19 13:23)
+
