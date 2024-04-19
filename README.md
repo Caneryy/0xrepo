@@ -462,3 +462,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to database (2024-04-19 14:20)
 
+- Improve error handling in frontend (2024-04-19 15:38)
+
