@@ -486,3 +486,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize utils performance (2024-04-30 16:18)
 
+- Update dependencies for frontend (2024-04-30 16:34)
+
