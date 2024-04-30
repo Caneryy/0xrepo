@@ -484,3 +484,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to docs (2024-04-30 14:56)
 
+- Optimize utils performance (2024-04-30 16:18)
+
