@@ -488,3 +488,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for frontend (2024-04-30 16:34)
 
+- Refactor config code (2024-04-30 18:00)
+
