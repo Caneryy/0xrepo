@@ -508,3 +508,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for api (2024-05-07 13:39)
 
+- Add new feature to utils (2024-05-07 14:42)
+
