@@ -506,3 +506,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in api (2024-05-07 12:54)
 
+- Update dependencies for api (2024-05-07 13:39)
+
