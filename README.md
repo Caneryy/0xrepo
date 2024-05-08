@@ -514,3 +514,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize core performance (2024-05-08 14:31)
 
+- Fix security issue in utils (2024-05-08 15:18)
+
