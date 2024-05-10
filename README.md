@@ -516,3 +516,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in utils (2024-05-08 15:18)
 
+- Update dependencies for tests (2024-05-10 14:19)
+
