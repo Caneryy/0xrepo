@@ -530,3 +530,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in tests (2024-05-14 19:31)
 
+- Update dependencies for core (2024-05-14 20:42)
+
