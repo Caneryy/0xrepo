@@ -526,3 +526,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for database (2024-05-14 17:41)
 
+- Fix security issue in docs (2024-05-14 18:38)
+
