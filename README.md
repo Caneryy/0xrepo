@@ -532,3 +532,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for core (2024-05-14 20:42)
 
+- Optimize core performance (2024-05-16 16:56)
+
