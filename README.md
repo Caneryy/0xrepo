@@ -556,3 +556,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for config (2024-05-23 16:45)
 
+- Update dependencies for frontend (2024-05-24 12:55)
+
