@@ -564,3 +564,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for utils (2024-05-29 12:52)
 
+- Implement frontend functionality (2024-05-31 13:41)
+
