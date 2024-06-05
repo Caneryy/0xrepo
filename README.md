@@ -580,3 +580,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for tests (2024-06-05 16:18)
 
+- Refactor tests code (2024-06-05 17:07)
+
