@@ -584,3 +584,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to backend (2024-06-05 18:58)
 
+- Add tests for docs (2024-06-06 13:34)
+
