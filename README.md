@@ -592,3 +592,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for utils (2024-06-06 17:44)
 
+- Improve error handling in database (2024-06-06 19:04)
+
