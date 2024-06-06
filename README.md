@@ -590,3 +590,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize tests performance (2024-06-06 15:58)
 
+- Add tests for utils (2024-06-06 17:44)
+
