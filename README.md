@@ -608,3 +608,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to api (2024-06-11 16:48)
 
+- Refactor auth code (2024-06-11 17:48)
+
