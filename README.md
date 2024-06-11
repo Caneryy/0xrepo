@@ -604,3 +604,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for api (2024-06-10 18:02)
 
+- Fix bug in docs (2024-06-11 15:51)
+
