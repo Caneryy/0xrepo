@@ -606,3 +606,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in docs (2024-06-11 15:51)
 
+- Add new feature to api (2024-06-11 16:48)
+
