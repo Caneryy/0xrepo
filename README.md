@@ -612,3 +612,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for database (2024-06-11 19:27)
 
+- Fix security issue in core (2024-06-11 21:21)
+
