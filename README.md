@@ -620,3 +620,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to api (2024-06-12 13:55)
 
+- Add tests for docs (2024-06-14 15:09)
+
