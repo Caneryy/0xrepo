@@ -628,3 +628,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for core (2024-06-14 17:27)
 
+- Improve error handling in api (2024-06-18 14:36)
+
