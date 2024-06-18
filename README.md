@@ -632,3 +632,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in tests (2024-06-18 15:43)
 
+- Update documentation for backend (2024-06-18 16:12)
+
