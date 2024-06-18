@@ -630,3 +630,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in api (2024-06-18 14:36)
 
+- Fix bug in tests (2024-06-18 15:43)
+
