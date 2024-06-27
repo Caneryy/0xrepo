@@ -674,3 +674,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Implement database functionality (2024-06-27 13:29)
 
+- Fix bug in frontend (2024-06-27 14:01)
+
