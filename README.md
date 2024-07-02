@@ -688,3 +688,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in core (2024-07-02 16:11)
 
+- Improve error handling in core (2024-07-02 17:27)
+
