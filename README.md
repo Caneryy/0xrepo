@@ -700,3 +700,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor core code (2024-07-03 16:10)
 
+- Improve error handling in tests (2024-07-03 18:09)
+
