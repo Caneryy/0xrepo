@@ -710,3 +710,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for config (2024-07-04 14:53)
 
+- Update dependencies for frontend (2024-07-04 15:31)
+
