@@ -768,3 +768,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for utils (2024-07-30 15:29)
 
+- Fix security issue in api (2024-07-30 17:05)
+
