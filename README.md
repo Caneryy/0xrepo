@@ -798,3 +798,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize frontend performance (2024-08-06 10:06)
 
+- Improve error handling in auth (2024-08-06 11:51)
+
