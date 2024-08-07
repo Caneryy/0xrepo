@@ -804,3 +804,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in auth (2024-08-07 15:48)
 
+- Improve error handling in docs (2024-08-07 17:32)
+
