@@ -802,3 +802,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to tests (2024-08-06 13:48)
 
+- Improve error handling in auth (2024-08-07 15:48)
+
