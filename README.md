@@ -818,3 +818,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in docs (2024-08-13 14:27)
 
+- Optimize auth performance (2024-08-13 15:31)
+
