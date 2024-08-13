@@ -816,3 +816,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for frontend (2024-08-12 14:08)
 
+- Fix security issue in docs (2024-08-13 14:27)
+
