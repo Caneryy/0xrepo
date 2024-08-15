@@ -824,3 +824,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in tests (2024-08-15 14:11)
 
+- Fix security issue in core (2024-08-15 16:07)
+
