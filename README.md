@@ -822,3 +822,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in api (2024-08-15 12:25)
 
+- Fix security issue in tests (2024-08-15 14:11)
+
