@@ -828,3 +828,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor database code (2024-08-15 17:05)
 
+- Fix security issue in core (2024-08-16 11:26)
+
