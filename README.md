@@ -838,3 +838,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in config (2024-08-20 17:12)
 
+- Update documentation for backend (2024-08-21 16:27)
+
