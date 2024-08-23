@@ -844,3 +844,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor api code (2024-08-23 17:03)
 
+- Fix security issue in core (2024-08-23 18:16)
+
