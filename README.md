@@ -854,3 +854,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in auth (2024-08-27 12:11)
 
+- Update documentation for api (2024-08-28 13:43)
+
