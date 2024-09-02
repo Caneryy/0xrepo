@@ -868,3 +868,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for api (2024-09-02 14:16)
 
+- Update documentation for frontend (2024-09-02 15:03)
+
