@@ -876,3 +876,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for utils (2024-09-04 15:08)
 
+- Refactor backend code (2024-09-04 16:49)
+
