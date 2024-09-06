@@ -1,0 +1,3 @@
+Fix security issue in core
+
+Date: 2024-09-06 14:33:37
