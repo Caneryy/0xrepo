@@ -1,0 +1,3 @@
+Fix security issue in frontend
+
+Date: 2024-09-11 14:37:29
