@@ -910,3 +910,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Refactor frontend code (2024-09-13 17:57)
 
+- Update documentation for frontend (2024-09-13 18:36)
+
