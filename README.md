@@ -914,3 +914,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for database (2024-09-13 19:13)
 
+- Optimize tests performance (2024-09-16 11:56)
+
