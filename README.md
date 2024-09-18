@@ -926,3 +926,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for tests (2024-09-17 15:37)
 
+- Add tests for frontend (2024-09-18 14:56)
+
