@@ -930,3 +930,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to api (2024-09-19 10:44)
 
+- Update dependencies for docs (2024-09-19 11:12)
+
