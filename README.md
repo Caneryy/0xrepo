@@ -940,3 +940,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to core (2024-09-23 15:49)
 
+- Add new feature to api (2024-09-23 16:08)
+
