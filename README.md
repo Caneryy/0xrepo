@@ -958,3 +958,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in auth (2024-09-26 18:01)
 
+- Update dependencies for api (2024-09-26 19:50)
+
