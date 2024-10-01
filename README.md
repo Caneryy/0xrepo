@@ -970,3 +970,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in core (2024-10-01 13:20)
 
+- Fix security issue in auth (2024-10-01 14:07)
+
