@@ -972,3 +972,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in auth (2024-10-01 14:07)
 
+- Refactor tests code (2024-10-01 14:52)
+
