@@ -988,3 +988,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for api (2024-10-04 13:01)
 
+- Fix bug in auth (2024-10-04 13:26)
+
