@@ -992,3 +992,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for config (2024-10-04 13:58)
 
+- Improve error handling in frontend (2024-10-04 15:53)
+
