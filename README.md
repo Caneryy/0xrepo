@@ -1044,3 +1044,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for config (2024-10-21 10:57)
 
+- Fix security issue in api (2024-10-21 12:49)
+
