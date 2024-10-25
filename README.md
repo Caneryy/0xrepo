@@ -1076,3 +1076,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in core (2024-10-25 17:08)
 
+- Update documentation for frontend (2024-10-25 18:14)
+
