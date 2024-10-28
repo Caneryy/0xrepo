@@ -1082,3 +1082,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix bug in docs (2024-10-28 14:59)
 
+- Refactor docs code (2024-10-28 15:59)
+
