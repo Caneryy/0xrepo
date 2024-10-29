@@ -1086,3 +1086,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to api (2024-10-29 12:17)
 
+- Improve error handling in backend (2024-10-29 13:28)
+
