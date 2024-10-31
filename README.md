@@ -1098,3 +1098,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Improve error handling in frontend (2024-10-31 14:21)
 
+- Refactor tests code (2024-10-31 15:08)
+
