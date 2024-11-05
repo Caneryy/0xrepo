@@ -1112,3 +1112,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in database (2024-11-05 15:19)
 
+- Add tests for api (2024-11-05 16:20)
+
