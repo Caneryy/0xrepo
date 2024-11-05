@@ -1114,3 +1114,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for api (2024-11-05 16:20)
 
+- Refactor frontend code (2024-11-05 16:43)
+
