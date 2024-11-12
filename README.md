@@ -1142,3 +1142,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize auth performance (2024-11-12 17:51)
 
+- Fix bug in core (2024-11-12 18:16)
+
