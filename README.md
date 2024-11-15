@@ -1156,3 +1156,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for api (2024-11-15 12:24)
 
+- Refactor config code (2024-11-15 13:07)
+
