@@ -1164,3 +1164,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Fix security issue in database (2024-11-19 16:58)
 
+- Fix security issue in frontend (2024-11-19 17:48)
+
