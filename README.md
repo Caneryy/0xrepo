@@ -1160,3 +1160,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for core (2024-11-15 14:06)
 
+- Improve error handling in config (2024-11-19 16:38)
+
