@@ -1190,3 +1190,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for database (2024-11-26 15:44)
 
+- Improve error handling in frontend (2024-11-27 15:25)
+
