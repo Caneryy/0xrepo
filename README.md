@@ -1196,3 +1196,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add tests for frontend (2024-11-27 18:04)
 
+- Update documentation for docs (2024-11-29 14:45)
+
