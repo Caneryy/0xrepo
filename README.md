@@ -1200,3 +1200,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Optimize docs performance (2024-11-29 15:10)
 
+- Improve error handling in core (2024-12-02 10:57)
+
