@@ -1206,3 +1206,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update documentation for docs (2024-12-02 14:24)
 
+- Update dependencies for docs (2024-12-02 16:01)
+
