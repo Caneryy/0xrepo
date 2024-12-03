@@ -1208,3 +1208,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Update dependencies for docs (2024-12-02 16:01)
 
+- Fix bug in auth (2024-12-03 11:53)
+
