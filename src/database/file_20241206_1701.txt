@@ -1,0 +1,3 @@
+Improve error handling in tests
+
+Date: 2024-12-06 17:01:45

@@ -1222,3 +1222,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to backend (2024-12-06 15:03)
 
+- Improve error handling in tests (2024-12-06 17:01)
+
