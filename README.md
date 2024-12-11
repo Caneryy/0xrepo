@@ -1230,3 +1230,5 @@ Generated commit history for repository-2024-12-12-18-09-39
 
 - Add new feature to auth (2024-12-10 14:26)
 
+- Update documentation for api (2024-12-11 14:56)
+
